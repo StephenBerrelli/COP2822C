@@ -2,3 +2,15 @@ body {
     background-color: blanchedalmond;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+h1 {
+    font-size: x-large;
+}
+
+p {
+    font-size: medium;
+}
+
+img {
+    display: block;
+}
