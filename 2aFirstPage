@@ -1,10 +1,7 @@
 <!DOCTYPE html>
     <html>
         <head>
-            <style>
-                h1  {font-size: x-large;}
-                p   {font-size: medium;}
-            </style>
+            <link rel="stylesheet" href="styles.cc">
         </head>
         <body>
             <h1>STPEHEN BERRELLI</h1>
@@ -14,8 +11,14 @@
                that even a basic understanding of web development would be useful to any software engineer whether they
                are interested in front or back end programming.
             </p>
-            <p>Outside of computer science, I am a server at a Korean BBQ restraunt near universal. I enjoy playing video games with friends and playing pick-up soccer.
-               My favorite song right now is, <img src="modernfear.jpg" alt="Modern Fear">
+            <p>Outside of computer science, I am a server at a Korean BBQ restraunt near universal. I enjoy playing video games with friends and playing pick-up soccer. I also have cat named Bark.
+               <br>My favorite song right now is <em>MODERN FEAR</em>, by Mind's Eye <img       src="https://i.scdn.co/image/ab67616d0000b273660c9c4d584420ed1eb7faa6"
+                                                                                                style="width: 250px;"
+                                                                                                style="height: 250px;"
+                                                                                                style="vertical-align: top;"
+                                                                                                style="vertical-align: middle;"
+                                                                                                style="vertical-align: bottom;"
+                                                                                                alt="Modern Fear">
             </p>
             <footer><a href="https://valenciacollege.edu/">Valencia College</a></footer>
         </body>
